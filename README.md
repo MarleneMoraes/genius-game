@@ -1,13 +1,12 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
-
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um simples jogo Gênesis com apenas algumas linhas de código! 
-
-### Os requisitos são:
-
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
- 
+# Recreating the snake game with JavaScript
 
 
-## 🚀 Let's code! 🚀
+This repository contains the project "Creating your Genius Style Memory Game" for the JavaScript Game Developer Bootcamp, at platform <u>Digital Innovation One</u> (DIO), with the instructor *Front-End Developer* Gabriela Pinheiro.
+
+### Tools
+- HTML5
+- CSS3
+- Vanilla JavaScript
+
+
+> Project status: Completed :heavy_check_mark:
